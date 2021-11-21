@@ -1,0 +1,16 @@
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\obj\Debug\QlSinhVien.Form1.resources
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\obj\Debug\QlSinhVien.Properties.Resources.resources
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\QlSinhVien.exe.config
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\QlSinhVien.exe
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\QlSinhVien.pdb
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\BUS.dll
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\DTO.dll
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\DAL.dll
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\BUS.pdb
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\DTO.pdb
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\bin\Debug\DAL.pdb
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\obj\Debug\QlSinhVien.exe
+C:\Users\ChinhLee\source\repos\QLSinhVien\QlSinhVien\obj\Debug\QlSinhVien.pdb
